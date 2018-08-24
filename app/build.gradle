@@ -37,7 +37,6 @@ android {
 
     dynamicFeatures = [':features:kotlin',
                        ':features:java',
-                       ':features:native',
                        ':features:assets']
 }
 
